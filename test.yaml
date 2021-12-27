@@ -1,0 +1,24 @@
+name: "Eyyup"
+age: 27
+address: "Istanbul"
+active: true
+car:
+  brand: "Opel"
+  model: "Astra K"
+  year: "2016"
+  key:
+    key2: ""
+    key3: 22
+experience: ["IWT", "Intertech", "Huawei"]
+array: 
+  - "item1"
+  - "item2"
+  - "item3"
+arrayKeyValue: 
+  - key: "value"
+  - key2: false
+  - key3: 27
+    key4: "in same object"
+longText: >
+    asdaweasd asdawef asdacsdasd
+    asdfafr3e asd3w fafzs asdfa
